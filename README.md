@@ -7,7 +7,7 @@ Usage
 -----
 
 ```
-redale <file_path>
+redale <file_path ...>
 ```
 
 Instalation
