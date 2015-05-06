@@ -9,3 +9,10 @@ Usage
 ```
 redale <file_path>
 ```
+
+Instalation
+-----------
+
+```
+curl -L https://raw.github.com/paulomendes/redale/master/install.sh | sh
+```
